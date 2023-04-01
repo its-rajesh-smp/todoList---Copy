@@ -1,0 +1,18 @@
+.Input-div label{
+    text-transform: capitalize;
+    padding-right: 5px;
+    font-size: xx-large;
+}
+
+.Button{
+    border: none;
+    border-radius: 5px;
+    background-color: blueviolet;
+    margin: 10px 0px;
+    padding: 10px 30px;
+    transition-property:background-color ;
+    transition-duration: 300ms;
+}
+.Button:hover{
+    background-color: aquamarine;
+}
